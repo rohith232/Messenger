@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827735717403",
+    "project_id": "messenger-bafeb",
+    "storage_bucket": "messenger-bafeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827735717403:android:cba906c49651002bc22abe",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFNSoBP1AsErxdDEHw0i5849D2LevVUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
